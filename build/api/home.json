@@ -1,0 +1,33 @@
+{
+	"success": true,
+	"data":{
+		"topicList": [{
+						"id": 1,
+						"title": "读书",
+						"imgUrl": "//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+					},{
+						"id": 2,
+						"title": "自然科普",
+						"imgUrl": "//upload.jianshu.io/collections/images/76/12.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+					}],
+		"articleList": [{
+						"id": 1,
+						"title": "哪双手是女生的？马上看出你的真实性格！",
+						"desc": "选择A 喜欢简单（不喜欢麻烦和累的感觉） 健忘不记仇（只要没碰他底线，一切都是过眼云烟） 有斗志爱拼搏（刻苦努力） 别人对他好定加倍奉还的代表 ...",
+						"imgUrl": "//upload-images.jianshu.io/upload_images/12209441-55ad8394c4f74fe5?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+					},{
+						"id": 2,
+						"title": "哪双手是女生的？马上看出你的真实性格！",
+						"desc": "选择A 喜欢简单（不喜欢麻烦和累的感觉） 健忘不记仇（只要没碰他底线，一切都是过眼云烟） 有斗志爱拼搏（刻苦努力） 别人对他好定加倍奉还的代表 ...",
+						"imgUrl": "//upload-images.jianshu.io/upload_images/12209441-55ad8394c4f74fe5?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+					
+					}],
+	"recommendList": [{
+						"id":1,
+						"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+					},{
+						"id": 2,
+						"imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+					}]
+	}
+}
